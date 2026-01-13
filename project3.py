@@ -31,7 +31,7 @@ for i, links in enumerate(link, start=1):
         url.append(href)
 
 url = url[:10]
-msg = "Important links from SVMCM website"
+msg = "Important links from this website"
 for i, link in enumerate(url, 1):
     msg +=f"{i}. {link}\n"       # Coverting the 'urls' to a string so that the "pywhatkit" module can access the 'urls'
 
