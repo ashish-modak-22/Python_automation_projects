@@ -44,3 +44,4 @@ cls_time = int(input("\nEnter the time in seconds after which you want to close 
 pywhatkit.sendwhatmsg(phone_no, msg, hour, minute, wait_time=40, tab_close=True, close_time=cls_time)
 
 driver.quit()
+# End of the code
