@@ -13,11 +13,12 @@ All projects use **Selenium WebDriver** as the core automation library.
 ### 🔹 Project 1: Automated Website Launcher
 - Takes predefined website names as user input
 - Automatically opens the selected website using Selenium
-
+- ![Alt text](images/brows_open.png)
 
 ### 🔹 Project 2: Website Link Fetcher
 - Opens a predefined website
 - Fetches all hyperlinks (`<a>` tags) from the website
+- ![Alt text](images/link_fetch.png)
 
 ### 🔹 Project 3: Link Fetcher & WhatsApp Automation
 - Fetches all website links using Selenium
